@@ -43,7 +43,7 @@ nav {
 .nav-link:hover {
     color: #36bbce;
     font-size: 25px;
-    border-bottom: 2px solid #36bbce;
+    border-bottom: 2px solid #5fc0ce;
 }
 
 h1 {
@@ -155,7 +155,6 @@ aside {
     width: 100px;
     height: 390px;
     padding: 20px;
-    color: white;
 }
 
 .social {
